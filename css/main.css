@@ -799,6 +799,10 @@ video {
   gap: 1.25rem;
 }
 
+.gap-1 {
+  gap: 0.25rem;
+}
+
 .overflow-y-scroll {
   overflow-y: scroll;
 }
